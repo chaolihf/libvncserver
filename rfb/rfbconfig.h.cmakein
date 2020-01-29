@@ -45,6 +45,9 @@
 /* Define to 1 if you have the `socket' function. */
 #cmakedefine LIBVNCSERVER_HAVE_SOCKET  1 
 
+/* Define to 1 if you have the `pipe' function. */
+#cmakedefine LIBVNCSERVER_HAVE_PIPE  1
+
 /* Define to 1 if you have the `strchr' function. */
 #cmakedefine LIBVNCSERVER_HAVE_STRCHR  1 
 
